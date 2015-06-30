@@ -12,6 +12,11 @@ is located to make sure its still running
 4. You are finished!
 5. If you plan on doing it again on a different directory without closing the application, hit the reset button
 
+## Todo
+- Multithreading so I'm not doing all the work on the GUI thread and causing it to freeze
+- Fixing the mysterious stopping bug
+- Getting a better folder browser
+
 ## Bugs
 With large numbers of vmt files, sometimes the application won't finish the job and will stop most of the way through. 
 Like so: "Updated wood_plank_a.vmt! 6625/6730"
