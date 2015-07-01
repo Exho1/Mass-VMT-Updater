@@ -6,11 +6,12 @@ yourself.
 
 ## Use
 1. Select a folder of Valve texture and material files that are exactly where you want them
-2. Hit the "Convert" button
-3. Wait while the program updates them (it might freeze in which case you can check the log.txt file created where the .exe
+2. Make a backup of the folder just to be on the safe side
+3. Hit the "Convert" button
+4. Wait while the program updates them (it might freeze in which case you can check the log.txt file created where the .exe
 is located to make sure its still running
-4. You are finished!
-5. If you plan on doing it again on a different directory without closing the application, hit the reset button
+5. You are finished!
+6. If you plan on doing it again on a different directory without closing the application, hit the reset button
 
 ## Todo
 - Multithreading so I'm not doing all the work on the GUI thread and causing it to freeze
